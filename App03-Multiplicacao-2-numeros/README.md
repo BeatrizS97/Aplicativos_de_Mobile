@@ -37,20 +37,23 @@ Este projeto foi uma excelente oportunidade para aprimorar habilidades em **Reac
 
 --- 
 
+---
 
-📲 Como Acessar o App
-1. Acessando via Expo Snack - Simples e Rápido!
+## 📲 **Como Acessar o App**
+
+### 1. **Acessando via Expo Snack - Simples e Rápido!**
 Acesse e teste o app diretamente no seu navegador! 🎉
 
-Passo 1: Clique no link abaixo para abrir o projeto no Expo Snack: Abrir no Expo Snack
+- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
+  [Abrir no Expo Snack](https://snack.expo.dev/)  
 
-Passo 2: Você pode testar no navegador ou, se preferir, escanear o QR Code com o Expo Go no seu celular para ver o app em tempo real.
+- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
 
-2. Baixando o Código Fonte - Totalmente Customizável
+---
+
+### 2. **Baixando o Código Fonte - Totalmente Customizável**
 Se preferir rodar o app diretamente no seu dispositivo, siga as etapas abaixo:
 
-Passo 1: Clone o repositório ou baixe o código do GitHub.
-
-Passo 2: Siga as instruções para configurar o projeto com React Native ou use o Expo Go para testar sem complicação!
-
+- **Passo 1**: Clone o repositório ou baixe o código do GitHub.
+- **Passo 2**: Siga as instruções para configurar o projeto com **React Native** ou use o **Expo Go** para testar sem complicação!
 
