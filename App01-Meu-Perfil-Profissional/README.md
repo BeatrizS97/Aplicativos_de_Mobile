@@ -25,7 +25,7 @@ O aplicativo **"Meu Perfil Profissional"** foi desenvolvido com o intuito de apr
 ## 🎯 Conclusão
 Este projeto foi uma excelente oportunidade para aprender os conceitos básicos do **desenvolvimento mobile** e melhorar minhas habilidades em **React Native**. Estou empolgado(a) com as possibilidades de aprimorar ainda mais este app e explorar novas funcionalidades! 🚀
 
-
+--
 ## 📲 **Como Acessar o App**
 
 ### 1. **Acessando via Expo Snack - Simples e Rápido!**
