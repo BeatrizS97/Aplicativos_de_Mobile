@@ -35,8 +35,6 @@ O **Multiplicador de Números** é um aplicativo que permite ao usuário inserir
 ## 🎉 **Conclusão**  
 Este projeto foi uma excelente oportunidade para aprimorar habilidades em **React Native** e explorar conceitos fundamentais do desenvolvimento mobile. A simplicidade do aplicativo permite que ele seja utilizado como base para aplicações mais complexas no futuro.  
 
---- 
-
 ---
 
 ## 📲 **Como Acessar o App**
