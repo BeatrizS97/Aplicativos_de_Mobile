@@ -28,9 +28,29 @@ O **Multiplicador de Números** é um aplicativo que permite ao usuário inserir
 ## 💡 **Próximos Passos**  
 * **Melhoria no Design**: Adicionar animações e aprimorar a interface.  
 * **Histórico de Cálculos**: Implementar um sistema para armazenar operações realizadas.  
-* **Modo Escuro**: Adicionar suporte ao **dark mode** para melhor acessibilidade.  
+* **Modo Escuro**: Adicionar suporte ao **dark mode** para melhor acessibilidade.
 
 ---
 
 ## 🎉 **Conclusão**  
 Este projeto foi uma excelente oportunidade para aprimorar habilidades em **React Native** e explorar conceitos fundamentais do desenvolvimento mobile. A simplicidade do aplicativo permite que ele seja utilizado como base para aplicações mais complexas no futuro.  
+
+--- 
+
+
+📲 Como Acessar o App
+1. Acessando via Expo Snack - Simples e Rápido!
+Acesse e teste o app diretamente no seu navegador! 🎉
+
+Passo 1: Clique no link abaixo para abrir o projeto no Expo Snack: Abrir no Expo Snack
+
+Passo 2: Você pode testar no navegador ou, se preferir, escanear o QR Code com o Expo Go no seu celular para ver o app em tempo real.
+
+2. Baixando o Código Fonte - Totalmente Customizável
+Se preferir rodar o app diretamente no seu dispositivo, siga as etapas abaixo:
+
+Passo 1: Clone o repositório ou baixe o código do GitHub.
+
+Passo 2: Siga as instruções para configurar o projeto com React Native ou use o Expo Go para testar sem complicação!
+
+
