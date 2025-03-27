@@ -156,10 +156,10 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-usuario" title="Seu Nome">
+      <a href="https://github.com/seu-usuario" title="Beatriz Silva">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto de exemplo"/><br>
         <sub>
-          <b>Seu Nome</b>
+          <b>Beatriz Silva</b>
         </sub>
       </a>
     </td>
