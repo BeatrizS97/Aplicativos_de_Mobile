@@ -46,6 +46,3 @@ Se preferir rodar o app diretamente no seu dispositivo, siga as etapas abaixo:
 - **Passo 2**: Siga as instruções para configurar o projeto com **React Native** ou use o **Expo Go** para testar sem complicação!
 
 ---
-
-## 🌟 **Experimente Agora!**
-
