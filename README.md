@@ -156,7 +156,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/seu-usuario" title="Beatriz Silva">
+      <a href="https://github.com/seu-usuario" title="BeatrizS97">
         <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto de exemplo"/><br>
         <sub>
           <b>Beatriz Silva</b>
