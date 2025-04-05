@@ -9,28 +9,21 @@ export const styles = StyleSheet.create({
     width: 200,
     height: 200,
     borderRadius: 100,
+    alignItems: 'center',
     marginBottom: 20,
   },
   titulo: {
     fontSize: 24,
     fontWeight: 'bold',
-    marginBottom: 5,
-    marginTop: 30, 
+    marginBottom: 10,
+    marginTop: 50, 
+    textAlign: 'center',
   },
   texto1: {
-    fontSize: 21,
+    fontSize: 23,
     fontWeight: 'bold',
-    marginBottom: 5,
-    marginTop: 10, 
-  },
-  texto2: {
-    fontSize: 18,
-    marginBottom: 5,
-    marginTop: 30, 
-
-  },
-   texto: {
-    fontSize: 18,
-    marginBottom: 5,
+    marginTop: 5,
+    marginLeft: 5,
+    textAlign: 'center',
   },
 });

@@ -1,14 +1,25 @@
 import { View, Text, Image } from 'react-native';
 import { styles } from './styles';
 
-function Formacao(){
+function Formacao(props){
   return (
-  <View style={styles.container}>
-  <Text style={styles.titulo}>🎓 Formação Acadêmica</Text>
-    <Text style={styles.texto}>📌 Análise e Desenvolvimento de Sistema</Text>
-    <Text style={styles.texto}>📌 Instituição: Fatec Praia Grande</Text>
-    <Text style={styles.texto}>📌 Período: 2022-2025</Text>
+    <View style={styles.container}>
+      <Text style={styles.titulo}>🎓 Formação Acadêmica</Text>
+
+     <Text style={styles.texto}>
+  <Text style={styles.bullet}>{'\u2022'}</Text>
+  <Text> {props.curso}</Text>
+</Text>
+
+      <Text style={styles.texto}>
+        <Text style={styles.bullet}>{'\u2022'}</Text> Instituição: {props.instituicao}
+      </Text>
+
+      <Text style={styles.texto}>
+        <Text style={styles.bullet}>{'\u2022'}</Text> Período: {props.periodo}
+      </Text>
     </View>
-  );    
+  );
 }
+
 export default Formacao;
