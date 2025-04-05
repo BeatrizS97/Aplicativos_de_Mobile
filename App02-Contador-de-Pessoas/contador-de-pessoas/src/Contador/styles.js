@@ -9,7 +9,7 @@ export const styles = StyleSheet.create({
     padding: 50,
     marginTop: 280,
     borderRadius: 20,
-    marginHorizontal: 17,
+    marginHorizontal: 35,
      shadowColor: 'black', // Cor da sombra
     shadowOffset: { width: 0, height: 4 }, // Sombra com deslocamento (eixo X, eixo Y)
     shadowOpacity: 0.2, // Opacidade da sombra
