@@ -1,51 +1,113 @@
-### **Multiplicador de Números - App Expo Snack**  
+# Multiplicador de Números - React Native
 
-Este aplicativo foi o terceiro aplicativo desenvolvido no **Expo Snack** como parte do aprendizado em **Desenvolvimento Mobile**. O objetivo do projeto é criar uma aplicação simples e funcional para multiplicar dois números inseridos pelo usuário, de forma interativa e intuitiva.  
-
-
-## 🚀 **Visão Geral**  
-O **Multiplicador de Números** é um aplicativo que permite ao usuário inserir dois valores e obter rapidamente o resultado da multiplicação. Ele possui uma interface amigável e responsiva, tornando a experiência de uso simples e eficiente.  
-
-
-## 🎯 **Funcionalidades**  
-* **Multiplicação de Números**: Insira dois valores e obtenha o resultado da multiplicação.  
-* **Validação de Entrada**: O app exibe um alerta caso algum dos campos esteja vazio.  
-* **Feedback Visual**: Campos de entrada com borda colorida ao ganhar foco.  
-* **Interface Responsiva**: Layout moderno e adaptável a diferentes dispositivos.  
-
-
-## 🛠 **Tecnologias Usadas**  
-* **Expo Snack**: Plataforma para desenvolvimento mobile com React Native.  
-* **React Native**: Framework para construção de interfaces nativas.  
-* **JavaScript**: Linguagem utilizada para a lógica do app.  
-* **React Hooks (useState)**: Gerenciamento do estado dos inputs e do resultado.  
-
-
-## 💡 **Próximos Passos**  
-* **Melhoria no Design**: Adicionar animações e aprimorar a interface.  
-* **Histórico de Cálculos**: Implementar um sistema para armazenar operações realizadas.  
-* **Modo Escuro**: Adicionar suporte ao **dark mode** para melhor acessibilidade.
-
-
-## 🎉 **Conclusão**  
-Este projeto foi uma excelente oportunidade para aprimorar habilidades em **React Native** e explorar conceitos fundamentais do desenvolvimento mobile. A simplicidade do aplicativo permite que ele seja utilizado como base para aplicações mais complexas no futuro.  
+Este é um projeto simples de aplicativo desenvolvido com **React Native**, que permite multiplicar dois números de maneira prática e interativa. O objetivo deste projeto é praticar conceitos de componentização, estilização, uso de props e aplicar melhorias visuais com animações para uma experiência mais agradável ao usuário.
 
 ---
 
-## 📲 **Como Acessar o App**
+📋 Índice
 
-### 1. **Acessando via Expo Snack - Simples e Rápido!**
-Acesse e teste o app diretamente no seu navegador! 🎉
+1. [Visão Geral](#visão-geral)
+2. [Funcionalidades](#funcionalidades)
+3. [Tecnologias Utilizadas](#tecnologias-utilizadas)
+4. [Estrutura do Projeto](#estrutura-do-projeto)
+5. [Como Executar o Projeto](#como-executar-o-projeto)
+6. [Contribuições](#contribuições)
+7. [Licença](#licença)
 
-- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
-  [Abrir no Expo Snack](https://snack.expo.dev/)  
 
-- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
-- 
+---
 
-### 2. **Baixando o Código Fonte - Totalmente Customizável**
-Se preferir rodar o app diretamente no seu dispositivo, siga as etapas abaixo:
+🌟 **Visão Geral**
 
-- **Passo 1**: Clone o repositório ou baixe o código do GitHub.
-- **Passo 2**: Siga as instruções para configurar o projeto com **React Native** ou use o **Expo Go** para testar sem complicação!
+O **Multiplicador de Números** é uma aplicação móvel interativa que permite ao usuário inserir dois valores numéricos e calcular o resultado da multiplicação. O app foi desenvolvido como parte dos estudos de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em boas práticas de **UX/UI**, **componentização** e **animações em React Native**.
 
+O projeto é dividido em partes reutilizáveis:
+
+- **Campo de entrada**: Recebe os números digitados pelo usuário.
+- **Botão de ação**: Dispara o cálculo.
+- **Componente de resultado**: Exibe o produto da multiplicação.
+- **Animações**: De entrada suave para os elementos e exibição do resultado.
+
+---
+
+✨ **Funcionalidades**
+
+- Entrada de dois números com placeholders personalizados  
+- Cálculo imediato ao pressionar o botão "Calcular"  
+- Validação básica de campos vazios ou inválidos  
+- Layout moderno e responsivo com cores agradáveis  
+- Componentes reutilizáveis com `props` (ex: botão e campos de texto)  
+- Animações suaves na entrada do app e no resultado  
+- Compatível com Android e iOS  
+
+---
+
+💻 **Tecnologias Utilizadas**
+
+- **React Native**: Biblioteca principal para construção da interface  
+- **JavaScript**: Linguagem principal utilizada  
+- **Expo**: Plataforma para facilitar o desenvolvimento e testes  
+- **Hooks**: `useState`, `useRef`, `useEffect`  
+- **Animated API**: Para aplicar transições suaves  
+- **Componentização com Props**: Tornando o app dinâmico e modular  
+- **ScrollView e View**: Para organizar a interface de forma acessível  
+
+---
+
+📁 **Estrutura do Projeto**
+
+```
+multiplicador-numeros/
+├── App.js                # Componente principal do aplicativo
+├── src/
+│   ├── custombutton.js   # Componente personalizado para o botão
+│   ├── inputfield.js     # Componente personalizado para os campos de entrada
+│   └── styles.js         # Estilos globais do aplicativo
+```
+
+---
+
+🚀 **Como Executar o Projeto**
+
+### Pré-requisitos
+
+- Node.js instalado na máquina (opcional, apenas para desenvolvimento local).
+- Conta no [Expo](https://expo.dev/) (para usar o Snack Expo).
+
+### Executando no Snack Expo
+
+1. Acesse o [Snack Expo](https://snack.expo.dev/).
+2. Crie um novo projeto.
+3. Substitua os arquivos padrão pelos seguintes:
+   - `App.js`
+   - `src/custombutton.js`
+   - `src/inputfield.js`
+   - `src/styles.js`
+4. Copie o código fornecido neste repositório para os respectivos arquivos.
+5. Execute o projeto no simulador ou em um dispositivo físico via Expo Go.
+
+### Executando Localmente
+
+1. Clone este repositório (se disponível) ou crie os arquivos manualmente.
+2. Instale as dependências necessárias:
+   ```bash
+   npm install
+   ```
+3. Inicie o servidor de desenvolvimento:
+   ```bash
+   npx expo start
+   ```
+4. Abra o aplicativo no simulador ou em um dispositivo físico usando o aplicativo Expo Go.
+
+---
+
+📝 **Licença**
+
+Este projeto está licenciado sob a **MIT License**. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+📞 **Contato**
+
+- **Nome**: Beatriz Silva Santos
+- **LinkedIn**: [linkedin.com/in/beatriz-silva-santos](https://www.linkedin.com/in/beatriz-silva-santos-419339235/)
