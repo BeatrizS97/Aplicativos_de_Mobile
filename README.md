@@ -1,11 +1,5 @@
 # 🚀 Aplicativos Mobile - React Native (Desenvolvimento Mobile - 5º Ciclo ADS)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/repositorio?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/repositorio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/repositorio?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/seu-usuario/repositorio?style=for-the-badge)
-![GitHub open pull requests](https://img.shields.io/github/pulls/seu-usuario/repositorio?style=for-the-badge)
-
 <img src="imagem.png" alt="Exemplo imagem">
 
 > Este repositório contém uma coleção de aplicativos móveis criados utilizando **React Native** com **Snack Expo**, como parte da disciplina de **Desenvolvimento Mobile** no **5º Ciclo de Análise e Desenvolvimento de Sistemas (ADS)**.
