@@ -157,7 +157,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/beatrizs97" title="Beatriz Silva">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto de exemplo"/><br>
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQFoNX62slQw6Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710373484027?e=1749686400&v=beta&t=pbn94ZFo_XN6Ag72it6Ska8avTF6hT5dw_AHJ2RuM8I" width="100px;" alt="Foto de exemplo"/><br>
         <sub>
           <b>Beatriz Silva</b>
         </sub>
