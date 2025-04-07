@@ -1,13 +1,5 @@
 # 🚀 Aplicativos Mobile - React Native (Desenvolvimento Mobile - 5º Ciclo ADS)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/repositorio?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/seu-usuario/repositorio?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/seu-usuario/repositorio?style=for-the-badge)
-![GitHub open issues](https://img.shields.io/github/issues/seu-usuario/repositorio?style=for-the-badge)
-![GitHub open pull requests](https://img.shields.io/github/pulls/seu-usuario/repositorio?style=for-the-badge)
-
-<img src="imagem.png" alt="Exemplo imagem">
-
 > Este repositório contém uma coleção de aplicativos móveis criados utilizando **React Native** com **Snack Expo**, como parte da disciplina de **Desenvolvimento Mobile** no **5º Ciclo de Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
@@ -157,7 +149,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/beatrizs97" title="Beatriz Silva">
-        <img src="https://avatars3.githubusercontent.com/u/31936044" width="100px;" alt="Foto de exemplo"/><br>
+        <img src="https://media.licdn.com/dms/image/v2/D5603AQFoNX62slQw6Q/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1710373484027?e=1749686400&v=beta&t=pbn94ZFo_XN6Ag72it6Ska8avTF6hT5dw_AHJ2RuM8I" width="100px;" alt="Foto de exemplo"/><br>
         <sub>
           <b>Beatriz Silva</b>
         </sub>
