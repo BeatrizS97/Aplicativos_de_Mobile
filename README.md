@@ -1,7 +1,5 @@
 # 🚀 Aplicativos Mobile - React Native (Desenvolvimento Mobile - 5º Ciclo ADS)
 
-<img src="imagem.png" alt="Exemplo imagem">
-
 > Este repositório contém uma coleção de aplicativos móveis criados utilizando **React Native** com **Snack Expo**, como parte da disciplina de **Desenvolvimento Mobile** no **5º Ciclo de Análise e Desenvolvimento de Sistemas (ADS)**.
 
 ---
