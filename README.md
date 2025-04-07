@@ -120,16 +120,33 @@ Para testar o projeto em seu dispositivo móvel:
 
 [🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/alcool-ou-gasolina)
 
+--- 
+
+### 5. **App05 - Calculadora de IMC**
+
+![Calculadora de IMC](https://via.placeholder.com/400x200.png)
+
+**Descrição**: Um aplicativo que calcula o Índice de Massa Corporal (IMC) com base no peso e altura informados, classificando o resultado segundo as categorias da OMS.
+
+- **Objetivo**: Trabalhar com entradas numéricas, cálculos matemáticos e renderização condicional.
+- **Funcionalidades**:
+  - Entrada de peso (kg) e altura (cm ou m).
+  - Cálculo automático do IMC.
+  - Exibição da classificação de acordo com o valor do IMC.
+
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/calculadora-de-imc)
+
 ---
 
 ## 📂 Estrutura do Repositório
 
 ```
 /apps
-  ├── App01-Meu-Perfil-Profissional/  # Código do aplicativo Meu Perfil Profissional
-  ├── App02-Contador-de-Pessoas/      # Código do aplicativo Contador de Pessoas
-  ├── App03-Multiplicacao-2-numeros/  # Código do aplicativo Multiplicação de 2 Números
-  ├── App04-Alcool-ou-Gasolina/       # Código do aplicativo Álcool ou Gasolina
+  ├── App01-Meu-Perfil-Profissional/   # Código do aplicativo Meu Perfil Profissional
+  ├── App02-Contador-de-Pessoas/       # Código do aplicativo Contador de Pessoas
+  ├── App03-Multiplicacao-2-numeros/   # Código do aplicativo Multiplicação de 2 Números
+  ├── App04-Alcool-ou-Gasolina/        # Código do aplicativo Álcool ou Gasolina
+  ├── App05-Calculadora-de-IMC/        # Código do aplicativo Calculadora de IMC
 README.md
 ```
 
