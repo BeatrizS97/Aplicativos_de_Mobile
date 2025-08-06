@@ -1,4 +1,4 @@
-# 📱 App06 - NutriAjuda
+# 📱 Projeto Final - NutriAjuda
 
 **NutriAjuda** é um aplicativo mobile criado com **React Native** via **Snack Expo**, desenvolvido como parte da disciplina de **Desenvolvimento Mobile** no 5º Ciclo de Análise e Desenvolvimento de Sistemas (ADS).
 
