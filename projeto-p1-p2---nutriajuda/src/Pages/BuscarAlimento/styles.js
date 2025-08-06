@@ -1,0 +1,115 @@
+import { StyleSheet, Platform, Dimensions } from 'react-native';
+
+const { height } = Dimensions.get('window');
+
+export default StyleSheet.create({
+  container: {
+    flex: 1,
+    padding: 20,
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingTop: Platform.OS === 'ios' ? height * 0.12 : 60, // Notch clearance
+    paddingBottom: 40,
+    backgroundColor: '#E0F7F9', // Fundo claro similar à imagem
+  },
+  header: {
+    marginBottom: 20,
+    alignItems: 'center',
+  },
+  title: {
+    fontSize: 32,
+    fontWeight: 'bold',
+    color: '#00695c',
+    marginBottom: 15,
+    textAlign: 'center',
+    textShadowColor: 'rgba(0, 0, 0, 0.2)',
+    textShadowOffset: { width: 3, height: 3 },
+    textShadowRadius: 4,
+    marginTop: 40,
+    fontFamily: 'Poppins',
+  },
+  inputContainer: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: '#fff',
+    borderRadius: 20,
+    padding: 15,
+    marginVertical: 15,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.2,
+    shadowRadius: 5,
+    elevation: 5,
+    width: '90%',
+    borderWidth: 1,
+    borderColor: '#ddd',
+  },
+  icon: {
+    marginRight: 10,
+  },
+  input: {
+    flex: 1,
+    height: 40,
+    fontSize: 16,
+    width: '90%',
+    color: '#333',
+    fontFamily: 'Poppins',
+  },
+  button: {
+    backgroundColor: '#00695c',
+    paddingVertical: 12,
+    paddingHorizontal: 30,
+    borderRadius: 12,
+    alignItems: 'center',
+    width: '60%',
+    marginTop: 10,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 5,
+    elevation: 5,
+  },
+  buttonText: {
+    fontSize: 16,
+    color: '#FFF',
+    fontWeight: 'bold',
+    fontFamily: 'Poppins',
+  },
+  loader: {
+    marginVertical: 20,
+  },
+  list: {
+    paddingBottom: 20,
+  },
+  item: {
+    backgroundColor: '#fff',
+    borderRadius: 10,
+    padding: 20,
+    marginVertical: 8,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 1 },
+    shadowOpacity: 0.2,
+    shadowRadius: 5,
+    elevation: 3,
+    borderLeftWidth: 5,
+    borderLeftColor: '#00695c',
+    width: '92%',
+    alignItems: 'center',
+    justifyContent: 'center',
+    marginLeft: 10
+  },
+  itemTitle: {
+    fontSize: 18,
+    fontWeight: 'bold',
+    color: '#00695c',
+    marginBottom: 5,
+    textAlign: 'center',
+    fontFamily: 'Poppins',
+  },
+  itemText: {
+    fontSize: 14,
+    color: '#333',
+    textAlign: 'center',
+    fontFamily: 'Poppins',
+  },
+});
