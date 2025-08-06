@@ -74,7 +74,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Exibição de informações básicas do perfil.
   * Personalização da imagem de perfil.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/meu-perfil-profissional)
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/app17---meu-perfil-profissional)
 
 ---
 
@@ -90,8 +90,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Incrementar e decrementar o contador.
   * Exibir o número total de pessoas.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/contador-de-pessoas)
-
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/app02---contador-de-pessoas).
 ---
 
 ### 3. **App03 - Multiplicação de 2 Números**
@@ -106,7 +105,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Entrada de dois números.
   * Exibição do resultado da multiplicação.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/multiplicacao-de-2-numeros)
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/-app03---multiplicacao-de-2-numeros)
 
 ---
 
@@ -122,7 +121,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Cálculo baseado no preço do álcool e gasolina.
   * Exibição do combustível mais vantajoso.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/alcool-ou-gasolina)
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/app04---alcool-ou-gasolina)
 
 ---
 
@@ -139,7 +138,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Cálculo automático do IMC.
   * Exibição da classificação de acordo com o valor do IMC.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/calculadora-de-imc)
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/app05---aplicativo-imc)
 
 ---
 
@@ -156,7 +155,7 @@ Para testar o projeto em seu dispositivo móvel:
   * Tela de progresso com peso e gordura corporal.
   * Busca por alimentos com dados nutricionais vindos de API.
 
-[🔗 Acesse no Snack Expo](https://snack.expo.dev/@seu-usuario/nutriajuda)
+[🔗 Acesse no Snack Expo](https://snack.expo.dev/@beatrizss97/projeto-p1-p2---nutriajuda)
 
 ---
 
