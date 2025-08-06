@@ -35,19 +35,10 @@ Seu objetivo é auxiliar usuários no controle nutricional pessoal, incluindo re
 
 ---
 
-## 📷 Capturas de Tela
-
-| Registro de Refeições                           |
-| ----------------------------------------------- |
-| ![Registro](../assets/nutriajuda-refeicoes.png) |
-
-*(Imagem de exemplo da funcionalidade de registro de refeições mostrando abóbora cozida adicionada ao almoço)*
-
----
 
 ## 🚀 Acesso Rápido
 
-[🔗 Acesse o projeto no Snack Expo](https://snack.expo.dev/@seu-usuario/nutriajuda)
+[🔗 Acesse o projeto no Snack Expo](https://snack.expo.dev/@beatrizss97/projeto-p1-p2---nutriajuda)
 
 ---
 
