@@ -180,23 +180,6 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
 
-## 🤝 Colaboradores
-
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/beatrizs97" title="Beatriz Silva">
-        <img src="https://media.licdn.com/dms/image/v2/D5603AQHj_DGnoEIrog/profile-displayphoto-scale_400_400/B56Ze8UHXFG0Ak-/0/1751211080068?e=1759363200&v=beta&t=ppz_c04YlsH4O-vlKnyfHEpPzcd0F90ldjgTUXHAH4A"/><br>
-        <sub>
-          <b>Beatriz Silva</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ## 📝 Licença
 nça [MIT License](LICENSE).
