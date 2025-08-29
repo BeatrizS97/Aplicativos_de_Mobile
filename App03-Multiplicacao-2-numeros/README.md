@@ -46,7 +46,7 @@ O projeto é dividido em partes reutilizáveis:
 
 - **React Native**: Biblioteca principal para construção da interface  
 - **JavaScript**: Linguagem principal utilizada  
-- **Expo**: Plataforma para facilitar o desenvolvimento e testes  
+- **Expo**: Plataforma para facilitar o desenvolvimento e testes. Link - https://snack.expo.dev/@beatrizss97/-app03---multiplicacao-de-2-numeros
 - **Hooks**: `useState`, `useRef`, `useEffect`  
 - **Animated API**: Para aplicar transições suaves  
 - **Componentização com Props**: Tornando o app dinâmico e modular  
