@@ -20,7 +20,7 @@ O aplicativo **"Contador de Pessoas"** foi desenvolvido para permitir o controle
 
 ## 🛠 Tecnologias Usadas
 
-- **Expo Snack**: Plataforma para desenvolvimento mobile com React Native.
+- **Expo Snack**: Plataforma para desenvolvimento mobile com React Native. Link - https://snack.expo.dev/@beatrizss97/app02---contador-de-pessoas
 - **React Native**: Framework para construção de interfaces nativas.
 - **JavaScript**: Linguagem utilizada para codificação do app.
 - **React Hooks** (_useState_ e _useEffect_): Gerenciamento de estado e efeitos colaterais.
