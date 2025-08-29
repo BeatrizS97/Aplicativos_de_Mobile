@@ -29,7 +29,7 @@ Seu objetivo é auxiliar usuários no controle nutricional pessoal, incluindo re
 ## 🧪 Tecnologias Utilizadas
 
 * React Native
-* Expo / Snack Expo - Link: https://snack.expo.dev/@beatrizss97/projeto-p1-p2---nutriajuda
+* Expo / Snack Expo 
 * AsyncStorage (armazenamento local)
 * Integração com API externa de alimentos
 
@@ -52,6 +52,18 @@ Seu objetivo é auxiliar usuários no controle nutricional pessoal, incluindo re
   |- storage/
   |- App.js
 ```
+
+---
+
+## 📲 **Como Acessar o App**
+
+### 1. **Acessando via Expo Snack - Simples e Rápido!**
+Acesse e teste o app diretamente no seu navegador! 🎉
+
+- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
+  [Abrir no Expo Snack](https://snack.expo.dev/@beatrizss97/projeto-p1-p2---nutriajuda)
+
+- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
 
 ---
 
