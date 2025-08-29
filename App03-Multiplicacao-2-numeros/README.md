@@ -46,7 +46,7 @@ O projeto é dividido em partes reutilizáveis:
 
 - **React Native**: Biblioteca principal para construção da interface  
 - **JavaScript**: Linguagem principal utilizada  
-- **Expo**: Plataforma para facilitar o desenvolvimento e testes. Link - https://snack.expo.dev/@beatrizss97/-app03---multiplicacao-de-2-numeros
+- **Expo**: Plataforma para facilitar o desenvolvimento e testes. 
 - **Hooks**: `useState`, `useRef`, `useEffect`  
 - **Animated API**: Para aplicar transições suaves  
 - **Componentização com Props**: Tornando o app dinâmico e modular  
@@ -63,6 +63,18 @@ multiplicador-numeros/
 │   ├── custombutton.js   # Componente personalizado para o botão
 │   ├── inputfield.js     # Componente personalizado para os campos de entrada
 │   └── styles.js         # Estilos globais do aplicativo
+
+---
+
+## 📲 **Como Acessar o App**
+
+### 1. **Acessando via Expo Snack - Simples e Rápido!**
+Acesse e teste o app diretamente no seu navegador! 🎉
+
+- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
+  [Abrir no Expo Snack](https://snack.expo.dev/@beatrizss97/-app03---multiplicacao-de-2-numeros)  
+
+- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
 
 ---
 
