@@ -13,7 +13,7 @@ O aplicativo **"Meu Perfil Profissional"** foi desenvolvido com o intuito de apr
 - **Projetos Realizados:** Seção para listar projetos desenvolvidos, como este próprio app.
 
 ## 🛠️ Tecnologias Usadas
-- **Expo Snack:** Plataforma para desenvolvimento mobile com React Native.
+- **Expo Snack:** Plataforma para desenvolvimento mobile com React Native. Link - https://snack.expo.dev/@beatrizss97/app16---meu-perfil-profissional-
 - **React Native:** Framework para construção de interfaces nativas.
 - **JavaScript:** Linguagem utilizada para codificação do app.
 - **React Navigation:** Biblioteca para navegação entre telas.
