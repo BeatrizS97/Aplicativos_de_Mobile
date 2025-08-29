@@ -46,7 +46,7 @@ Este app foi desenvolvido como parte dos estudos em **Análise e Desenvolvimento
 
 - **React Native**  
 - **JavaScript (ES6+)**  
-- **Expo**  
+- **Expo**: Link - https://snack.expo.dev/@beatrizss97/app04---alcool-ou-gasolina  
 - **Animated API**  
 - **StyleSheet para estilização**  
 - **Alert e TextInput nativos**
