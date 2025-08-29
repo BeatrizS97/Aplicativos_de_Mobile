@@ -73,56 +73,6 @@ App03-Multiplicacao-2-numeros/
 
 ---
 
-## ▶️ Como Executar o Projeto
-
-### ✅ Pré-requisitos
-
-- Node.js instalado  
-- Expo CLI (se ainda não tiver, instale com `npm install -g expo-cli`)  
-- Emulador Android/iOS ou dispositivo físico com o app Expo Go
-
-### 🧭 Passos
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/alcool-ou-gasolina.git
-cd alcool-ou-gasolina
-```
-
-2. Instale as dependências:
-```bash
-npm install
-```
-
-3. Execute o projeto:
-```bash
-npx expo start
-```
-
-4. Escaneie o QR code com o app **Expo Go** no seu celular (ou use o emulador).
-
----
-
-## 🤝 Contribuições
-
-Contribuições são muito bem-vindas! Para contribuir:
-
-1. Faça um fork do repositório  
-2. Crie uma branch com sua melhoria:
-```bash
-git checkout -b feature/nova-funcionalidade
-```
-3. Faça commit das suas alterações:
-```bash
-git commit -m "Adiciona nova funcionalidade"
-```
-4. Envie para o repositório remoto:
-```bash
-git push origin feature/nova-funcionalidade
-```
-5. Abra um Pull Request explicando suas alterações.
-
----
 
 ## 📜 Licença
 
