@@ -54,18 +54,6 @@ O projeto é dividido em partes reutilizáveis:
 
 ---
 
-📁 **Estrutura do Projeto**
-
-```
-multiplicador-numeros/
-├── App.js                # Componente principal do aplicativo
-├── src/
-│   ├── custombutton.js   # Componente personalizado para o botão
-│   ├── inputfield.js     # Componente personalizado para os campos de entrada
-│   └── styles.js         # Estilos globais do aplicativo
-
----
-
 ## 📲 **Como Acessar o App**
 
 ### 1. **Acessando via Expo Snack - Simples e Rápido!**
