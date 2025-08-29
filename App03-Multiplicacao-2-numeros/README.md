@@ -63,41 +63,6 @@ multiplicador-numeros/
 │   ├── custombutton.js   # Componente personalizado para o botão
 │   ├── inputfield.js     # Componente personalizado para os campos de entrada
 │   └── styles.js         # Estilos globais do aplicativo
-```
-
----
-
-🚀 **Como Executar o Projeto**
-
-### Pré-requisitos
-
-- Node.js instalado na máquina (opcional, apenas para desenvolvimento local).
-- Conta no [Expo](https://expo.dev/) (para usar o Snack Expo).
-
-### Executando no Snack Expo
-
-1. Acesse o [Snack Expo](https://snack.expo.dev/).
-2. Crie um novo projeto.
-3. Substitua os arquivos padrão pelos seguintes:
-   - `App.js`
-   - `src/custombutton.js`
-   - `src/inputfield.js`
-   - `src/styles.js`
-4. Copie o código fornecido neste repositório para os respectivos arquivos.
-5. Execute o projeto no simulador ou em um dispositivo físico via Expo Go.
-
-### Executando Localmente
-
-1. Clone este repositório (se disponível) ou crie os arquivos manualmente.
-2. Instale as dependências necessárias:
-   ```bash
-   npm install
-   ```
-3. Inicie o servidor de desenvolvimento:
-   ```bash
-   npx expo start
-   ```
-4. Abra o aplicativo no simulador ou em um dispositivo físico usando o aplicativo Expo Go.
 
 ---
 
