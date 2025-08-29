@@ -45,6 +45,6 @@ Este projeto foi uma excelente oportunidade para aprender os conceitos básicos 
 Acesse e teste o app diretamente no seu navegador! 🎉
 
 - **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
-  [Abrir no Expo Snack]([https://snack.expo.dev/@beatrizss97/app02---contador-de-pessoas])  
+  [Abrir no Expo Snack](https://snack.expo.dev/@beatrizss97/app02---contador-de-pessoas)  
 
 - **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
