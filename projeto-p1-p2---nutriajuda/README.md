@@ -29,7 +29,7 @@ Seu objetivo é auxiliar usuários no controle nutricional pessoal, incluindo re
 ## 🧪 Tecnologias Utilizadas
 
 * React Native
-* Expo / Snack Expo
+* Expo / Snack Expo - Link: https://snack.expo.dev/@beatrizss97/projeto-p1-p2---nutriajuda
 * AsyncStorage (armazenamento local)
 * Integração com API externa de alimentos
 
