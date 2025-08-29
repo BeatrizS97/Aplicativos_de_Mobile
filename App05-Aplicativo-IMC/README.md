@@ -43,7 +43,7 @@ Após o cálculo, o app classifica automaticamente o resultado em categorias com
 ## 💻 Tecnologias Utilizadas
 
 - **React Native**  
-- **Expo**  
+- **Expo** - Link: https://snack.expo.dev/@beatrizss97/app05---aplicativo-imc
 - **Animated API**  
 - **Componentização com JavaScript (ES6)**  
 - **StyleSheet**  
@@ -66,57 +66,6 @@ App-IMC/
 ├── App.js                  # Arquivo principal da aplicação
 ├── README.md               # Documentação do projeto
 ```
-
----
-
-## ▶️ Como Executar o Projeto
-
-### ✅ Pré-requisitos
-
-- Node.js instalado  
-- Expo CLI (`npm install -g expo-cli`)  
-- Emulador Android/iOS ou celular com app **Expo Go**
-
-### 🧭 Passos
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/app-imc.git
-cd app-imc
-```
-
-2. Instale as dependências:
-```bash
-npm install
-```
-
-3. Execute o projeto:
-```bash
-npx expo start
-```
-
-4. Escaneie o QR code com o app **Expo Go** ou use o emulador.
-
----
-
-## 🤝 Contribuições
-
-Contribuições são muito bem-vindas! Para contribuir:
-
-1. Faça um fork deste repositório  
-2. Crie uma branch com a nova funcionalidade ou correção  
-```bash
-git checkout -b minha-melhoria
-```
-3. Commit das suas alterações  
-```bash
-git commit -m "Melhoria na classificação do IMC"
-```
-4. Push da sua branch  
-```bash
-git push origin minha-melhoria
-```
-5. Abra um Pull Request descrevendo suas mudanças
 
 ---
 
