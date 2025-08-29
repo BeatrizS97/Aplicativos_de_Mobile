@@ -46,30 +46,23 @@ Este app foi desenvolvido como parte dos estudos em **Análise e Desenvolvimento
 
 - **React Native**  
 - **JavaScript (ES6+)**  
-- **Expo**: Link - https://snack.expo.dev/@beatrizss97/app04---alcool-ou-gasolina  
+- **Expo** Link - https://snack.expo.dev/@beatrizss97/app04---alcool-ou-gasolina  
 - **Animated API**  
 - **StyleSheet para estilização**  
 - **Alert e TextInput nativos**
 
 ---
 
-## 🗂️ Estrutura do Projeto
 
-```
-App03-Multiplicacao-2-numeros/
-│
-├── assets/
-│   └── image.png           # Imagem utilizada no app
-│
-├── src/
-│   ├── BotaoVerificar.js        # Componente do botão com animação
-│   ├── CampoPreco.js            # Campo de entrada com foco dinâmico
-│   ├── ImagemDecorativa.js      # Componente da imagem do topo
-│   ├── MensagemResultado.js     # Componente que mostra o resultado com fade
-│   └── styles.js                # Estilos da aplicação
-│
-├── App.js                  # Arquivo principal da aplicação
-├── README.md  
+## 📲 **Como Acessar o App**
+
+### 1. **Acessando via Expo Snack - Simples e Rápido!**
+Acesse e teste o app diretamente no seu navegador! 🎉
+
+- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
+  [Abrir no Expo Snack](https://snack.expo.dev/@beatrizss97/app04---alcool-ou-gasolina)
+
+- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
 
 ---
 
