@@ -43,7 +43,7 @@ Após o cálculo, o app classifica automaticamente o resultado em categorias com
 ## 💻 Tecnologias Utilizadas
 
 - **React Native**  
-- **Expo** - Link: https://snack.expo.dev/@beatrizss97/app05---aplicativo-imc
+- **Expo** 
 - **Animated API**  
 - **Componentização com JavaScript (ES6)**  
 - **StyleSheet**  
@@ -66,6 +66,18 @@ App-IMC/
 ├── App.js                  # Arquivo principal da aplicação
 ├── README.md               # Documentação do projeto
 ```
+
+---
+
+## 📲 **Como Acessar o App**
+
+### 1. **Acessando via Expo Snack - Simples e Rápido!**
+Acesse e teste o app diretamente no seu navegador! 🎉
+
+- **Passo 1**: Clique no link abaixo para abrir o projeto no **Expo Snack**:
+  [Abrir no Expo Snack](https://snack.expo.dev/@beatrizss97/app05---aplicativo-imc)
+
+- **Passo 2**: Você pode testar no navegador ou, se preferir, escanear o **QR Code** com o **Expo Go** no seu celular para ver o app em tempo real.
 
 ---
 
